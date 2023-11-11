@@ -1026,7 +1026,7 @@ span.skill {
   .credits {
     text-align: center;
     padding: 10px;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 1);
   }
 }
 .credits a {
