@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir D:Proyectosportafolio *)",
+      "PowerShell(Get-ChildItem \"D:\\\\Proyectos\\\\portafolio\\\\src\" -Recurse -Force | Where-Object { -not $_.PSIsContainer } | Select-Object FullName)",
+      "PowerShell(npm run *)",
+      "Bash(npm run *)",
+      "PowerShell(git *)",
+      "PowerShell(gh *)"
+    ]
+  }
+}

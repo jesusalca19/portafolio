@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jesusalca19.github.io/portafolio/sitemap.xml
