@@ -11,4 +11,5 @@ dev-server.*.log
 paraentraralcurriculum.txt
 .idea/
 contenido.md
+.claude/
 
